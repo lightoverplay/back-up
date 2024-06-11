@@ -1,0 +1,17 @@
+{
+	"root": "/home/khainqse161259/.forever",
+	"pidPath": "/home/khainqse161259/.forever/pids",
+	"sockPath": "/home/khainqse161259/.forever/sock",
+	"loglength": 100,
+	"logstream": false,
+	"columns": [
+		"uid",
+		"command",
+		"script",
+		"forever",
+		"pid",
+		"id",
+		"logfile",
+		"uptime"
+	]
+}
